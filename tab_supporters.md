@@ -3,7 +3,7 @@ title: Our supporters
 layout:  null
 tab: true
 order: 1
-tags: supportes-tag
+tags: supporters-tag
 ---
 
 ## Our supporters
