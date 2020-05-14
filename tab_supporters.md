@@ -1,5 +1,6 @@
 ---
-title: Our supporters
+title: supporters
+displaytext: Our Supporters
 layout:  null
 tab: true
 order: 1
