@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kyiv
-tags: example-tag
+tags: supporters-tag
 level: 0
 
 region: Europe
@@ -24,6 +24,40 @@ Please change these items to indicate the actual information you wish to present
 - tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
 - region: This is the region you are in according to our data
 ```
+## Who are we
+
+OWASP Kyiv chapter was founded in 2017 by [Vlad
+Styran](mailto:vlad.styran@owasp.org) and [Ihor
+Bliumental](mailto:ihor.bliumental@owasp.org). The chapter is run by a
+team of dedicated cybersecurity enthusiasts: [Kyrylo
+Hobrenyak](https://www.facebook.com/kireynh), [Dmytro
+Diordiychuk](https://www.facebook.com/dimitri.diordiychuk), and [Serhii
+Korolenko](https://www.facebook.com/profile.php?id=100000202486987).
+
+The chapter aims at holding quarterly meetups in the format of 2
+practical workshops and up to 5 talks. The meetups are normally streamed
+online and recorded, and are followed by unofficial parties in Kyiv
+pubs.
+
+## How to find us
+
+Follow our news and announcements on social media:
+[Facebook](https://www.facebook.com/owaspkyiv),
+[Twitter](https://twitter.com/owaspKyiv) &
+[Telegram](https://t.me/OWASP_UA)
+
+Find us on the semi-official OWASP
+[Slack](https://owasp.slack.com/messages/chapter-ua/) channel (you have
+to
+[register](https://owasp.slack.com/join/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
+first)
+
+Watch recordings of our previous events
+[YouTube](https://www.youtube.com/OWASPKyiv)
+
+Join the chapter [Mailing
+List](http://lists.owasp.org/mailman/listinfo/owasp-kyiv) or browse the
+[Archives](http://lists.owasp.org/pipermail/owasp-kyiv)
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
