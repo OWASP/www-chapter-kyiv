@@ -9,13 +9,15 @@ tags: past2017-tag
 
 ## 2017
 
-### <u>Chapter Meetup Winter 2017</u>
+### Chapter Meetup Winter 2017
 
-**Date** Dec 2, 2017, **Location** Student Center of [State University
+**Date** Dec 2, 2017
+
+**Location** Student Center of [State University
 of Telecommunications](http://www.dut.edu.ua), 7 Solomianska Street,
 Kyiv, Ukraine
 
-### Program
+#### Program
 
 ***Morning Workshops***
 
@@ -48,13 +50,15 @@ Rekun](https://www.facebook.com/media/set/?set=a.332428133898842.1073741835.2437
 **[Event writeup by Ivan
 Vyshnevskyi](https://hypothetical.me/post/owasp-kyiv-2017-winter/)**
 
-### <u>Chapter Meetup Fall 2017</u>
+### Chapter Meetup Fall 2017
 
-**Date** Sep 9, 2017 **Location** Student Center of [State University of
+**Date** Sep 9, 2017 
+
+**Location** Student Center of [State University of
 Telecommunications](http://www.dut.edu.ua), 7 Solomianska Street, Kyiv,
 Ukraine
 
-### Program
+#### Program
 
 ***Morning Workshops***
 
@@ -86,13 +90,15 @@ Ukraine
 **[Photo album by Serhiy
 Rekun](https://www.facebook.com/media/set/?set=a.331371667337822.1073741833.243702092771447&type=1&l=61da6a68be)**
 
-### <u>Chapter Kick-off Meeting</u>
+### Chapter Kick-off Meeting
 
-**Date** May 27, 2017 **Location** [Smartworking
+**Date** May 27
+
+2017 **Location** [Smartworking
 "SAD"](https://gogarden.com.ua), 3, Oleksandra Dovzhenka str., Kyiv,
 Ukraine, 03057
 
-### Program
+#### Program
 
 1.  Vlad Styran - Chapter Introduction and the 2017 Plan.
 2.  Ihor Bliumental - Is there life outside OWASP Top-10? Real-life bugs

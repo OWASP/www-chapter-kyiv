@@ -9,16 +9,18 @@ tags: past2018-tag
 
 ## 2018
 
-### <u>Chapter Meetup Fall 2018</u>
+### Chapter Meetup Fall 2018
 
 | Hosted by [MacPaw](http://macpaw.com)                                                                                                                             | Sponsored by [HackenProof](http://hackenproof.com)    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| ![40848393_480954535712867_4702854138168344576_o.png](40848393_480954535712867_4702854138168344576_o.png "40848393_480954535712867_4702854138168344576_o.png") | ![Hackenproof.png](Hackenproof.png "Hackenproof.png") |
+| ![MacPaw](assets/images/partners/macpaw.png "MacPaw") | ![HackenProof](assets/images/partners/hackenproof.png "HackenProof") |
 
-**Date** Sep 29, 2018 **Location** [MacPaw](https://macpaw.com), 81
+**Date** Sep 29, 2018 
+
+**Location** [MacPaw](https://macpaw.com), 81
 Antonovycha Street, Kyiv, Ukraine
 
-### Program
+#### Program
 
 1.  10:00 Serhii Korolenko - XSS from zer0 to Hero (workshop) |
     [Video](https://www.youtube.com/watch?v=mKqc9u_BRLM)
@@ -34,18 +36,20 @@ Antonovycha Street, Kyiv, Ukraine
 6.  16:00 Artem Tykhonov - Setting up the Setapp Bug Bounty Program |
     [Video](https://www.youtube.com/watch?v=CSYY90PWuBs)
 
-### <u>Chapter Meetup Summer 2018</u>
+### Chapter Meetup Summer 2018
 
 | Hosted by [Ciklum](https://www.ciklum.com). | Sponsored by [Linkos Group](http://www.linkos.com.ua). |
 | ------------------------------------------- | ------------------------------------------------------ |
-| ![Ciklum.png](Ciklum.png "Ciklum.png")      | ![Linkos.png](Linkos.png "Linkos.png")                 |
+| ![Ciklum](assets/images/partners/ciklum.png "Ciklum")      | ![Linkos Group](assets/images/partners/linkos.jpg "Linkos Group")                 |
 
-**Date** Jul 14, 2018 **Location** [Sky
+**Date** Jul 14, 2018
+
+**Location** [Sky
 Point](https://foursquare.com/v/sky-point-20th-floor/4e809969d3e3d2ec7ec3a5ef)
 (Ciklum Kyiv, 20th floor): 12 Amosova street, Horizon Park business
 center, Kyiv, Ukraine
 
-### Program
+#### Program
 
 1.  Stanislav Kolenkin - Kubernetes Security |
     [Video](https://www.youtube.com/watch?v=rcY4ol6Wi90&index=1&list=PLDLqQj8RuUFtNtrorz3R3JA0861QpQXX3)
@@ -64,14 +68,16 @@ center, Kyiv, Ukraine
 7.  Andriy Shalaenko - Intro to JS and Vue.js Sandbox Escape |
     [Video](https://www.youtube.com/watch?v=jFK2TqAkrsY&list=PLDLqQj8RuUFtNtrorz3R3JA0861QpQXX3&index=6)
 
-### <u>Chapter Meetup Spring 2018</u>
+### Chapter Meetup Spring 2018
 
-**Date** Mar 3, 2018, **Location** [Sky
+**Date** Mar 3, 2018,
+
+**Location** [Sky
 Point](https://foursquare.com/v/sky-point-20th-floor/4e809969d3e3d2ec7ec3a5ef)
 (Ciklum Kyiv, 20th floor): 12 Amosova street, Horizon Park business
 center, Kyiv, Ukraine
 
-### **Program**
+#### **Program**
 
 ***Morning Workshops***
 

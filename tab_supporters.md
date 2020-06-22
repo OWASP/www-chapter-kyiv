@@ -15,11 +15,18 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by funding our quarterly chapter
 meetings.
 
-![Linkos.png](Linkos.png "Linkos.png")
-![Hackenproof.png](Hackenproof.png "Hackenproof.png")
-![Logo_en_646x231.png](Logo_en_646x231.png "Logo_en_646x231.png")
-![Webbylab1.png](Webbylab1.png "Webbylab1.png")
-![Pentest-com-ua.png](Pentest-com-ua.png "Pentest-com-ua.png")
+![Berezha Security](assets/images/partners/berezha.png "Berezha Security")
+
+![Trend Micro](assets/images/partners/trendmicro.png "Trend Micro")
+
+![Pentest.com.ua](assets/images/partners/pentestcomua.png "Pentest.com.ua")
+
+![WebbyLab](assets/images/partners/webby.png "WebbyLab")
+
+![HackenProof](assets/images/partners/hackenproof.png "HackenProof")
+
+![Linkos Group](assets/images/partners/linkos.jpg "Linkos Group")
+
 
 ### Chapter meeting hosts
 
@@ -27,8 +34,14 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by hosting our quarterly chapter
 meetings.
 
-![Ciklum.png](Ciklum.png "Ciklum.png")
-![40848393_480954535712867_4702854138168344576_o.png](40848393_480954535712867_4702854138168344576_o.png
-"40848393_480954535712867_4702854138168344576_o.png")
-![Innohub.png](Innohub.png "Innohub.png") ![DUT.png](DUT.png "DUT.png")
-![Evo_logo_black_1.png](Evo_logo_black_1.png "Evo_logo_black_1.png")
+![Державний Університет Телекомунікацій](assets/images/partners/dut.jpg "Державний Університет Телекомунікацій")
+
+![Grammarly](assets/images/partners/grammarly.png "Grammarly")
+
+![EVO](assets/images/partners/evo.jpg "EVO")
+
+![Ciklum](assets/images/partners/ciklum.png "Ciklum")
+
+![InnoHub	](assets/images/partners/innohub.png "InnoHub")
+
+![MacPaw](assets/images/partners/macpaw.png "MacPaw")

@@ -9,13 +9,47 @@ tags: past2019-tag
 
 ## 2019
 
-### <u>Chapter Meetup Summer 2019</u>
+### Chapter Meetup Fall 2019
+
+| Hosted by [Grammarly](https://www.grammarly.com/).                                   | Sponsored by [Trend Micro](https://www.trendmicro.com/).         |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![Grammarly](assets/images/partners/grammarly.png "Grammarly") | ![Trend Micro](assets/images/partners/trendmicro.png "Trend Micro") |
+
+**Date** Nov. 23, 2019
+
+**Location** [Grammarly](https://www.grammarly.com/)
+02121, Україна, м Київ, Харківське шосе, 201/203, корпус 2-А, літера Ф
+
+#### Program
+
+[Event
+schedule](https://cfp.owaspukraine.org/okf219/schedule/)
+
+1. “Cilium - Network Security for Microservices. Let's See How It Works with Istio“ by Stanislav Kolenkin |
+     [Video](https://www.youtube.com/watch?v=D7zcy2wA-4U&list=PLDLqQj8RuUFsxINmeNCEVWDE3mPgpElpu&index=2&t=0s)
+2. “Quarantine Nights: exploiting macOS File Quarantine in popular apps“ by Vladimir Metnew |
+     [Video](https://www.youtube.com/watch?v=URsOPSTTgc4&list=PLDLqQj8RuUFsxINmeNCEVWDE3mPgpElpu&index=3&t=0s)
+3. “Injections - 4 Ways of Penetration” by Evgeny Tolchinsky |
+     [Video](https://www.youtube.com/watch?v=g_qUePGoS9o&list=PLDLqQj8RuUFsxINmeNCEVWDE3mPgpElpu&index=4&t=0s)
+4. “Pentest Expectations” by Ihor uZ |
+    [Video](https://www.youtube.com/watch?v=Vl9M7SmdtTA&list=PLDLqQj8RuUFsxINmeNCEVWDE3mPgpElpu&index=5&t=0s)
+5. “Hacktoberfest та open-source” by Mykhailo Pazyniuk |
+     [Video](https://www.youtube.com/watch?v=LBxVQ2RdiUE&list=PLDLqQj8RuUFsxINmeNCEVWDE3mPgpElpu&index=6&t=0s)
+6. “Basic Ideas of OSINT and Why It Is Useful” by Nadia Klymenko |
+     [Video](https://www.youtube.com/watch?v=8-RsF4DeLl4&list=PLDLqQj8RuUFsxINmeNCEVWDE3mPgpElpu&index=7&t=0s)
+7. “AppSec Quiz“ by Serhii Korolenko
+
+
+
+### Chapter Meetup Summer 2019
 
 | Hosted by [EVO](https://evo.company).                                   | Sponsored by [Pentest.com.ua](https://pentest.com.ua).         |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Evo_logo_black_1.png](Evo_logo_black_1.png "Evo_logo_black_1.png") | ![Pentest-com-ua.png](Pentest-com-ua.png "Pentest-com-ua.png") |
+| ![Evo](assets/images/partners/evo.jpg "Evo") | ![pentest.com.ua](assets/images/partners/pentestcomua.png "pentest.com.ua") |
 
-**Date** Aug 3, 2019 **Location** [EVO Company](https://evo.company)
+**Date** Aug 3, 2019 
+
+**Location** [EVO Company](https://evo.company)
 02121, Україна, м Київ, Харківське шосе, 201/203, корпус 2-А, літера Ф
 
 #### Program
@@ -25,7 +59,8 @@ schedule](https://cfp.owaspukraine.org/owaspkyivsummer2019/schedule/)
 
 1.  “Top Mobile Applications Vulnerabilities” by Svyatoslav Login |
     [Video](https://www.youtube.com/watch?v=cb7W1m84-nI&list=PLDLqQj8RuUFuLeumXPNIT3WhRWzR3jXHp&index=1)
-2.  Web Application Security Quiz | No video
+2.  Web Application Security Quiz |
+     No video
 3.  Mitre ATT\&CK in Practice. Detectors, Alerting, Coverage by Den
     Iuzvyk |
     [Video](https://www.youtube.com/watch?v=Fs0F7fnmTIY&list=PLDLqQj8RuUFuLeumXPNIT3WhRWzR3jXHp&index=3)
@@ -38,13 +73,15 @@ schedule](https://cfp.owaspukraine.org/owaspkyivsummer2019/schedule/)
 6.  Ruby Security Tips - Roman Rott |
     [Video](https://www.youtube.com/watch?v=FV6s8tUJQSs&list=PLDLqQj8RuUFuLeumXPNIT3WhRWzR3jXHp&index=7&t=0s)
 
-### <u>Chapter Meetup Spring 2019</u>
+### Chapter Meetup Spring 2019
 
 | Hosted by [Ciklum](https://www.ciklum.com). | Sponsored by [WebbyLab](https://webbylab.com).  |
 | ------------------------------------------- | ----------------------------------------------- |
-| ![Ciklum.png](Ciklum.png "Ciklum.png")      | ![Webbylab1.png](Webbylab1.png "Webbylab1.png") |
+| ![Ciklum](assets/images/partners/ciklum.png "Ciklum")      | ![Webbylab](assets/images/partners/webby.png "Webbylab") |
 
-**Date** Apr 6, 2019 **Location** [Sky
+**Date** Apr 6, 2019 
+
+**Location** [Sky
 Point](https://foursquare.com/v/sky-point-20th-floor/4e809969d3e3d2ec7ec3a5ef)
 (Ciklum Kyiv, 20th floor): 12 Amosova street, Horizon Park business
 center, Kyiv, Ukraine
@@ -67,13 +104,15 @@ schedule](https://cfp.owaspukraine.org/owaspkyivspring2019/schedule/)
 6.  Adversarial attacks on Deep Neural Networks (Andrey Shalaenko) |
     [Video](https://youtu.be/xET3S0Z-N9s)
 
-### <u>Chapter Meetup Winter 2019</u>
+### Chapter Meetup Winter 2019
 
 | Hosted by [InnoHub](https://www.facebook.com/InnoHubUA/) | Sponsored by [Berezha Security](https://berezhasecurity.com)        |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![Innohub.png](Innohub.png "Innohub.png")                | ![Logo_en_646x231.png](Logo_en_646x231.png "Logo_en_646x231.png") |
+| ![Innohub](assets/images/partners/innohub.png "Innohub")                | ![Berezha Security](assets/images/partners/berezha.png "Berezha Security") |
 
-**Date** Feb 2, 2019 **Location**
+**Date** Feb 2, 2019 
+
+**Location**
 [InnoHub](https://www.facebook.com/InnoHubUA/), 6-z, Vatslava Havela
 Blvd, Kyiv, Ukraine, 03124
 
