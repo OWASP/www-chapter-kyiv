@@ -2,10 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Kyiv
+country: Ukraine
+region: Europe
+meetup-group: kyiv-meetup-group
 tags: supporters-tag past2020-tag past2019-tag past2018-tag past2017-tag
 level: 0
-
-region: Europe
 
 ---
 
