@@ -19,7 +19,8 @@ Styran](mailto:vlad.styran@owasp.org) and [Ihor
 Bliumental](mailto:ihor.bliumental@owasp.org). The chapter is run by a
 team of dedicated cybersecurity enthusiasts: [Kyrylo
 Hobrenyak](https://www.facebook.com/kireynh), [Dmytro
-Diordiychuk](https://www.facebook.com/dimitri.diordiychuk), and [Serhii
+Diordiychuk](https://www.facebook.com/dimitri.diordiychuk),
+[Anatolii Bereziuk](mailto:anatolii.bereziuk@owasp.org) and [Serhii
 Korolenko](https://www.facebook.com/profile.php?id=100000202486987).
 
 The chapter aims at holding quarterly meetups in the format of 2
@@ -55,6 +56,8 @@ Bliumental](mailto:ihor.bliumental@owasp.org).
 
 # Future Events
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Become a Speaker
 
 Call For Speakers at OWASP Kyiv events is permanently open. If you want
@@ -65,13 +68,13 @@ of your talk and speaker bio to [Vlad
 Styran](mailto:vlad.styran@owasp.org) or [Ihor
 Bliumental](mailto:ihor.bliumental@owasp.org).
 
-## Become a Sponsor
+## Become a Partner
 
-To sponsor an OWASP Kyiv event, contact [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
+To become a partner of OWASP Kyiv event, contact [Serhii
+Korolenko](mailto:korolenko.sergiy@owasp.org) or [Ihor
 Bliumental](mailto:ihor.bliumental@owasp.org).
 
-We don't have any special sponsorship package, however the sponsoring
+We don't have any special partnership package, however the partner
 organization or individual will receive our warm thanks and a fair
 amount of gratitude spread over our social media presence, placed at the
 chapter official web-page, and announced at the event itself.
