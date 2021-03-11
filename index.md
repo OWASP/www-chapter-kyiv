@@ -5,10 +5,15 @@ title: OWASP Kyiv
 country: Ukraine
 region: Europe
 meetup-group: kyiv-meetup-group
-tags: supporters-tag past2020-tag past2019-tag past2018-tag past2017-tag
+tags: supporters-tag past2021-tag past2020-tag past2019-tag past2018-tag past2017-tag
 level: 0
 
 ---
+
+
+## Future Events
+
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Who are we
 
@@ -18,10 +23,10 @@ OWASP Kyiv chapter was founded in 2017 by [Vlad
 Styran](mailto:vlad.styran@owasp.org) and [Ihor
 Bliumental](mailto:ihor.bliumental@owasp.org). The chapter is run by a
 team of dedicated cybersecurity enthusiasts: [Kyrylo
-Hobrenyak](https://www.facebook.com/kireynh), [Dmytro
-Diordiychuk](https://www.facebook.com/dimitri.diordiychuk),
+Hobrenyak](mailto:kyrylo.hobreniak@owasp.org), [Dmytro
+Diordiychuk](mailto:dmytro.diordiichuk@owasp.org),
 [Anatolii Bereziuk](mailto:anatolii.bereziuk@owasp.org) and [Serhii
-Korolenko](https://www.facebook.com/profile.php?id=100000202486987).
+Korolenko](mailto:korolenko.sergiy@owasp.org).
 
 The chapter aims at holding quarterly meetups in the format of 2
 practical workshops and up to 5 talks. The meetups are normally streamed
@@ -50,13 +55,12 @@ List](http://lists.owasp.org/mailman/listinfo/owasp-kyiv) or browse the
 
 ## How to support the chapter
 
-If your company wishes to support the chapter, please contact [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
-
-# Future Events
-
-{% include chapter_events.html group=page.meetup-group %}
+If your company wishes to support the chapter, please contact [Ihor
+Bliumental](mailto:ihor.bliumental@owasp.org), [Kyrylo
+Hobrenyak](mailto:kyrylo.hobreniak@owasp.org), [Dmytro
+Diordiychuk](mailto:dmytro.diordiichuk@owasp.org),
+[Anatolii Bereziuk](mailto:anatolii.bereziuk@owasp.org) or [Serhii
+Korolenko](mailto:korolenko.sergiy@owasp.org).
 
 ## Become a Speaker
 
@@ -64,15 +68,21 @@ Call For Speakers at OWASP Kyiv events is permanently open. If you want
 to present at future events, review and agree with the [OWASP Speaker
 Agreement](Speaker_Agreement "wikilink") and check for upcoming events
 at <https://cfp.owaspukraine.org>, or simply send the title and abstract
-of your talk and speaker bio to [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+of your talk and speaker bio to [Ihor
+Bliumental](mailto:ihor.bliumental@owasp.org), [Kyrylo
+Hobrenyak](mailto:kyrylo.hobreniak@owasp.org), [Dmytro
+Diordiychuk](mailto:dmytro.diordiichuk@owasp.org),
+[Anatolii Bereziuk](mailto:anatolii.bereziuk@owasp.org) or [Serhii
+Korolenko](mailto:korolenko.sergiy@owasp.org).
 
 ## Become a Partner
 
-To become a partner of OWASP Kyiv event, contact [Serhii
-Korolenko](mailto:korolenko.sergiy@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+To become a partner of OWASP Kyiv event, contact [Ihor
+Bliumental](mailto:ihor.bliumental@owasp.org), [Kyrylo
+Hobrenyak](mailto:kyrylo.hobreniak@owasp.org), [Dmytro
+Diordiychuk](mailto:dmytro.diordiichuk@owasp.org),
+[Anatolii Bereziuk](mailto:anatolii.bereziuk@owasp.org) or [Serhii
+Korolenko](mailto:korolenko.sergiy@owasp.org).
 
 We don't have any special partnership package, however the partner
 organization or individual will receive our warm thanks and a fair
@@ -81,9 +91,12 @@ chapter official web-page, and announced at the event itself.
 
 ## Become a Host
 
-To host an OWASP Kyiv event, contact [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+To host an OWASP Kyiv event, contact [Ihor
+Bliumental](mailto:ihor.bliumental@owasp.org), [Kyrylo
+Hobrenyak](mailto:kyrylo.hobreniak@owasp.org), [Dmytro
+Diordiychuk](mailto:dmytro.diordiichuk@owasp.org),
+[Anatolii Bereziuk](mailto:anatolii.bereziuk@owasp.org) or [Serhii
+Korolenko](mailto:korolenko.sergiy@owasp.org).
 
 Venue requirements include:
 
@@ -93,6 +106,3 @@ Venue requirements include:
   - No need for additional attendee registration or providing attendee
     lists
   - No marketing, advertising, or hiring at the event
-
-## Announcements
->
