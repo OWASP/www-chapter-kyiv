@@ -40,6 +40,10 @@ Follow our news and announcements on social media:
 [Twitter](https://twitter.com/owaspKyiv) &
 [Telegram](https://t.me/OWASP_UA)
 
+## Upcoming Meeting 
+
+{% include chapter_events.html group=page.meetup-group %}
+
 Find us on the semi-official OWASP
 [Slack](https://owasp.slack.com/messages/chapter-ua/) channel (you have
 to
