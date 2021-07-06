@@ -45,7 +45,7 @@ schedule](https://cfp.owaspukraine.org/owaspukraine2020/schedule/)
 
 ### Chapter Online Meetup Spring 2020
 
-| Hosted by Zoom | Sponsored by [Berezha Security](https://berezhasecurity.com)    |
+| Hosted by Zoom | Partner: [Berezha Security](https://berezhasecurity.com)    |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![Zoom](assets/images/partners/zoom.png "Zoom")                | ![Berezha Security](assets/images/partners/berezha.png "Berezha Security") |
 
@@ -69,7 +69,7 @@ schedule](https://cfp.owaspukraine.org/oks2m20/schedule/)
 
 ### Chapter Meetup Winter 2020
 
-| Hosted by [Державний Університет Телекомунікацій](http://www.dut.edu.ua/) | Sponsored by [Trend Micro](https://www.trendmicro.com/)        |
+| Hosted by [Державний Університет Телекомунікацій](http://www.dut.edu.ua/) | Partner: [Trend Micro](https://www.trendmicro.com/)        |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![DUT](assets/images/partners/dut.jpg "DUT")                | ![Trend Micro](assets/images/partners/trendmicro.png "Trend Micro") |
 
