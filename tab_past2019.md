@@ -11,7 +11,7 @@ tags: past2019-tag
 
 ### Chapter Meetup Fall 2019
 
-| Hosted by [Grammarly](https://www.grammarly.com/).                                   | Sponsored by [Trend Micro](https://www.trendmicro.com/).         |
+| Hosted by [Grammarly](https://www.grammarly.com/).                                   | Partner: [Trend Micro](https://www.trendmicro.com/).         |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------- |
 | ![Grammarly](assets/images/partners/grammarly.png "Grammarly") | ![Trend Micro](assets/images/partners/trendmicro.png "Trend Micro") |
 
@@ -43,7 +43,7 @@ schedule](https://cfp.owaspukraine.org/okf219/schedule/)
 
 ### Chapter Meetup Summer 2019
 
-| Hosted by [EVO](https://evo.company).                                   | Sponsored by [Pentest.com.ua](https://pentest.com.ua).         |
+| Hosted by [EVO](https://evo.company).                                   | Partner: [Pentest.com.ua](https://pentest.com.ua).         |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------- |
 | ![Evo](assets/images/partners/evo.jpg "Evo") | ![pentest.com.ua](assets/images/partners/pentestcomua.png "pentest.com.ua") |
 
@@ -75,7 +75,7 @@ schedule](https://cfp.owaspukraine.org/owaspkyivsummer2019/schedule/)
 
 ### Chapter Meetup Spring 2019
 
-| Hosted by [Ciklum](https://www.ciklum.com). | Sponsored by [WebbyLab](https://webbylab.com).  |
+| Hosted by [Ciklum](https://www.ciklum.com). | Partner: [WebbyLab](https://webbylab.com).  |
 | ------------------------------------------- | ----------------------------------------------- |
 | ![Ciklum](assets/images/partners/ciklum.png "Ciklum")      | ![Webbylab](assets/images/partners/webby.png "Webbylab") |
 
@@ -106,7 +106,7 @@ schedule](https://cfp.owaspukraine.org/owaspkyivspring2019/schedule/)
 
 ### Chapter Meetup Winter 2019
 
-| Hosted by [InnoHub](https://www.facebook.com/InnoHubUA/) | Sponsored by [Berezha Security](https://berezhasecurity.com)        |
+| Hosted by [InnoHub](https://www.facebook.com/InnoHubUA/) | Partner: [Berezha Security](https://berezhasecurity.com)        |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![Innohub](assets/images/partners/innohub.png "Innohub")                | ![Berezha Security](assets/images/partners/berezha.png "Berezha Security") |
 
