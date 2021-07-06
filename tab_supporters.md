@@ -27,6 +27,8 @@ meetings.
 
 ![Linkos Group](assets/images/partners/linkos.jpg "Linkos Group")
 
+![Raiffeisen Bank Aval](assets/images/partners/Raiff2.jpg "Raiffeisen Bank Aval")
+
 
 ### Chapter meeting hosts
 
