@@ -11,7 +11,7 @@ tags: past2018-tag
 
 ### Chapter Meetup Fall 2018
 
-| Hosted by [MacPaw](http://macpaw.com)                                                                                                                             | Sponsored by [HackenProof](http://hackenproof.com)    |
+| Hosted by [MacPaw](http://macpaw.com)                                                                                                                             | Partner: [HackenProof](http://hackenproof.com)    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | ![MacPaw](assets/images/partners/macpaw.png "MacPaw") | ![HackenProof](assets/images/partners/hackenproof.png "HackenProof") |
 
@@ -38,7 +38,7 @@ Antonovycha Street, Kyiv, Ukraine
 
 ### Chapter Meetup Summer 2018
 
-| Hosted by [Ciklum](https://www.ciklum.com). | Sponsored by [Linkos Group](http://www.linkos.com.ua). |
+| Hosted by [Ciklum](https://www.ciklum.com). | Partner: [Linkos Group](http://www.linkos.com.ua). |
 | ------------------------------------------- | ------------------------------------------------------ |
 | ![Ciklum](assets/images/partners/ciklum.png "Ciklum")      | ![Linkos Group](assets/images/partners/linkos.jpg "Linkos Group")                 |
 
