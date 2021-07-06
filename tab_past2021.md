@@ -25,7 +25,7 @@ schedule](https://cfp.owaspukraine.org/okw2021/)
     [Video](https://www.youtube.com/watch?v=Vkc3P7byr4k&list=PLDLqQj8RuUFvlLDiPjIG-M-7GCZIB16wd&index=1&t=0s)
 2.  “Information security academic minors in modern Ukrainian higher education” by Trokhym Babych |
     [Video](https://www.youtube.com/watch?v=3TDsC7SKP_s&list=PLDLqQj8RuUFvlLDiPjIG-M-7GCZIB16wd&index=2&t=0s)
-3.  “Responsible disclosure: it's not all about the money” by Carlo Di Dato |
+3.  “Responsible disclosure: it's not all about the money” by Carlo Di Dato | 
     [Video](https://www.youtube.com/watch?v=6UTE0Riud8o&list=PLDLqQj8RuUFvlLDiPjIG-M-7GCZIB16wd&index=3&t=0s)
     
     
