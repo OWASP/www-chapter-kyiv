@@ -21,7 +21,7 @@ OWASP will be celebrating its [20th Anniversary](https://20thanniversary.owasp.o
 
 ## Who are we
 
-![OWASP Kyiv](assets/images/owasp_kyiv_logo_big.png "OWASP Kyiv")
+<img align="left" width="20%" src="assets/images/ava_1.png"> 
 
 OWASP Kyiv chapter was founded in 2017 by [Vlad
 Styran](mailto:vlad.styran@owasp.org) and [Ihor
@@ -36,7 +36,8 @@ The chapter aims at holding quarterly meetups in the format of 2
 practical workshops and up to 5 talks. The meetups are normally streamed
 online and recorded, and are followed by unofficial parties in Kyiv
 pubs.
-
+  
+&nbsp;
 ## How to find us
 
 Follow our news and announcements on social media:
