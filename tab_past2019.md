@@ -106,7 +106,7 @@ schedule](https://cfp.owaspukraine.org/owaspkyivspring2019/schedule/)
 
 ### Chapter Meetup Winter 2019
 
-| Hosted by [InnoHub](https://www.facebook.com/InnoHubUA/) | Partner: [Berezha Security](https://berezhasecurity.com)        |
+| Hosted by [InnoHub](https://www.facebook.com/InnoHubUA/) | Partner: [Berezha Security](https://bsg.tech/)        |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![Innohub](assets/images/partners/innohub.png "Innohub")                | ![Berezha Security](assets/images/partners/berezha.png "Berezha Security") |
 
