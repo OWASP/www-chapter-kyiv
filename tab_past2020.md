@@ -45,7 +45,7 @@ schedule](https://cfp.owaspukraine.org/owaspukraine2020/schedule/)
 
 ### Chapter Online Meetup Spring 2020
 
-| Hosted by Zoom | Partner: [Berezha Security](https://berezhasecurity.com)    |
+| Hosted by Zoom | Partner: [Berezha Security](https://bsg.tech/)    |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![Zoom](assets/images/partners/zoom.png "Zoom")                | ![Berezha Security](assets/images/partners/berezha.png "Berezha Security") |
 
