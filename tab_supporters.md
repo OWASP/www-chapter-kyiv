@@ -15,9 +15,9 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by funding our quarterly chapter
 meetings.
 
-![Berezha Security](assets/images/partners/berezha.png =250x "Berezha Security")
+![Berezha Security](assets/images/partners/berezha.png "Berezha Security")
 
-![Trend Micro](assets/images/partners/trendmicro.png =250x "Trend Micro")
+![Trend Micro](assets/images/partners/trendmicro.png "Trend Micro")
 
 ![Pentest.com.ua](assets/images/partners/pentestcomua.png "Pentest.com.ua")
 
