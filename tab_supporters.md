@@ -15,7 +15,9 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by funding our quarterly chapter
 meetings.
 
-![Berezha Security](assets/images/partners/berezha.png "Berezha Security")
+<div>
+  <a href="https://bsg.tech" target="_blank"><img alt="Berezha Security" src="assets/images/partners/berezha.png" width=500></a>
+</div>
 
 ![Trend Micro](assets/images/partners/trendmicro.png "Trend Micro")
 
