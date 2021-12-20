@@ -23,4 +23,4 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by hosting our quarterly chapter
 meetings.
 
-![Державний Університет Телекомунікацій](assets/images/partners/dut.jpg "Державний Університет Телекомунікацій") ![Grammarly](assets/images/partners/grammarly.png "Grammarly") ![EVO](assets/images/partners/evo.jpg "EVO") ![Ciklum](assets/images/partners/ciklum.png "Ciklum") ![InnoHub	](assets/images/partners/innohub.png "InnoHub") ![MacPaw](assets/images/partners/macpaw.png "MacPaw")
+![Державний Університет Телекомунікацій](assets/images/partners/dut.png "Державний Університет Телекомунікацій") ![Grammarly](assets/images/partners/grammarly.png "Grammarly") ![EVO](assets/images/partners/evo.png "EVO") ![Ciklum](assets/images/partners/ciklum.png "Ciklum") ![InnoHub	](assets/images/partners/innohub.png "InnoHub") ![MacPaw](assets/images/partners/macpaw.png "MacPaw")
