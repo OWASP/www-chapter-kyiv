@@ -46,7 +46,7 @@ Follow our news and announcements on social media:
 Find us on the semi-official OWASP
 [Slack](https://owasp.slack.com/messages/chapter-ua/) channel (you have
 to
-[register](https://owasp.slack.com/join/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
+[register](https://owasp.org/slack/invite)
 first)
 
 Watch recordings of our previous events
