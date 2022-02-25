@@ -12,8 +12,10 @@ level: 0
 
 ## Future Events
 
-{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group=page.meetup-group %}  
 
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦  
+🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 # OWASP Kyiv Winter 2022 Meetup is postponed due to russian attacks on Ukraine.
 
 ## Who are we
