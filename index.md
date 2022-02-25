@@ -17,6 +17,10 @@ level: 0
 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦  
 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 # OWASP Kyiv Winter 2022 Meetup is postponed due to russian attacks on Ukraine.
+We are defending ourselfs.  
+We do not stop.  
+Glory to our army!  
+Glory to Ukraine!  
 
 ## Who are we
 
