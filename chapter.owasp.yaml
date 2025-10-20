@@ -1,0 +1,33 @@
+leaders:
+  - name: Dmytro Diordiichuk
+    email: dmytro.diordiichuk@owasp.org
+  - name: Ihor Bliumental
+    email: ihor.bliumental@owasp.org
+    github: igorblum
+  - name: Kyrylo Hobreniak
+    email: kyrylo.hobreniak@owasp.org
+  - name: Korolenko Sergiy
+    email: korolenko.sergiy@owasp.org
+  - name: Anatolii Bereziuk
+    email: anatolii.bereziuk@owasp.org
+location:
+  country: Ukraine
+  country_code: UA
+  region: Kyiv City
+  city: Kyiv
+  latitude: 50.4500336
+  longitude: 30.5241361
+meetup_group: kyiv-meetup-group
+name: OWASP Kyiv
+repositories:
+  - name: www-chapter-kyiv
+    url: https://github.com/OWASP/www-chapter-kyiv
+    description: OWASP Foundation Web Repository
+tags:
+  - supporters-tag
+  - past2021-tag
+  - past2020-tag
+  - past2019-tag
+  - past2018-tag
+  - past2017-tag
+website: https://owasp.org/www-chapter-kyiv
